@@ -74,9 +74,4 @@ This system bridges the gap between on-ground project updates and centralized mo
 - **Preprocessing:** Feature scaling, missing value handling, feature engineering  
 - **Outputs:** Estimated number of days to completion  
 
----
-
-## 📱 App Screenshots
-
-You can include the following after adding images:
 
